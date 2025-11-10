@@ -1,0 +1,1 @@
+{"name":"Local: 3","url":"c:\\Users\\risha\\OneDrive\\Desktop\\c++ coding\\githubc++\\3.cpp","tests":[{"id":1762694089653,"input":"5\nbaa\nskibidus\ncc\nohio\naaaabbbaaacccd","output":"1\n8\n1\n4\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\risha\\OneDrive\\Desktop\\c++ coding\\githubc++\\3.cpp","group":"local","local":true}
